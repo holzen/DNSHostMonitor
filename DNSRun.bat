@@ -1,0 +1,1 @@
+nircmd execmd DNSHostMonitor.vbs
